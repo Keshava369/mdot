@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mdot/static/css/main.aad08426.css",
+    "main.js": "/mdot/static/js/main.c259c276.js",
+    "static/js/453.ed3810f9.chunk.js": "/mdot/static/js/453.ed3810f9.chunk.js",
+    "static/media/Mdot_Logo.jpg": "/mdot/static/media/Mdot_Logo.2dba3ad356d41b76e15b.jpg",
+    "index.html": "/mdot/index.html",
+    "main.aad08426.css.map": "/mdot/static/css/main.aad08426.css.map",
+    "main.c259c276.js.map": "/mdot/static/js/main.c259c276.js.map",
+    "453.ed3810f9.chunk.js.map": "/mdot/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad08426.css",
+    "static/js/main.c259c276.js"
+  ]
+}
